@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tree&lt;T, A&gt;">
+    <Position X="4.25" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="tree&lt;T, A&gt;::tree_node_remove_op">
+        <TypeIdentifier>
+          <NewMemberFileName>tree.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEQAkqEKAHBEgABEgKEIAgASFAQAJJIiAQEgAhAFQwo=</HashCode>
+      <FileName>tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tree_const_iterator&lt;T&gt;">
+    <Position X="0.5" Y="6.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQCEAAwAAAAgAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tree_iterator&lt;T&gt;">
+    <Position X="0.5" Y="9.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQCEAAgAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tree_unchecked_const_iterator&lt;T, I&gt;">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAQAAAAAAQAEAAwAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tree_unchecked_iterator&lt;T&gt;">
+    <Position X="0.5" Y="4" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAAgAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tree_value&lt;T&gt;">
+    <Position X="12" Y="1.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEAIAAABIAAAAAIkAAAACGAAAAAAg=</HashCode>
+      <FileName>tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="tree_iterator_types&lt;T, ST, DT, P, CP, R, CR, NP&gt;" Collapsed="true">
+    <Position X="8" Y="0.5" Width="7.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tree.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tree_node&lt;T, VP&gt;">
+    <Position X="8" Y="1.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAEAAACgBAAQAgAAAABAAAACAAAABgAAIEAAA=</HashCode>
+      <FileName>tree.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tree_node_emplace_op&lt;A&gt;">
+    <Position X="8" Y="13.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAABAAA=</HashCode>
+      <FileName>tree.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tree_node_insert_op&lt;A&gt;">
+    <Position X="8" Y="9.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAEBAABAAAAQAAAAAAAAAAQAACIAEAoAAAAAAA=</HashCode>
+      <FileName>tree.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
